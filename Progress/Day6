@@ -1,0 +1,15 @@
+# Day 6 – Final Testing in End User Portal & Instance
+
+## Progress
+
+### Testing in Service Portal (End User)
+- Submitted sample requests through the Service Portal to simulate real user experience.
+- Verified correct catalog item behavior, field validations, and variable sets.
+
+### Testing Emails and Notifications
+- Ensured approval notifications are sent to approvers.
+- Verified email formatting, content, and triggers.
+
+### Project Closure
+- Documented the final solution for deployment.
+- Prepared screenshots, flow diagrams, and explanations for GitHub or presentation.
