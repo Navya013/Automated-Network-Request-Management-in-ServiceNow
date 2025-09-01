@@ -1,0 +1,20 @@
+# Day 4 – Overview of Flows and Actions in Flow Designer
+
+## Progress
+
+### Navigating to Flow Designer
+- Explored the Flow Designer interface and key components.
+- Reviewed pre-built flows and templates for reference.
+
+### Flow Designer Components
+- Studied triggers, actions, subflows, and conditions used in Flow Designer.
+
+### Creating a Flow in Flow Designer
+- Designed flows for network request submission, routing, and fulfillment.
+
+### Adding Actions
+- Implemented actions like sending notifications, creating tasks, and updating records.
+
+### Testing and Debugging Flows
+- Executed sample requests to ensure flows work correctly.
+- Debugged errors and refined flow logic.
