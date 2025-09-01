@@ -1,0 +1,11 @@
+# Day 3 – Request Approvals Creation (Related List)
+
+## Progress
+
+### Creation of Related List
+- Designed related lists to manage request approvals efficiently.
+- Configured columns to display key information.
+
+### Adding Related List to the Table
+- Linked the related list to the request table for seamless access.
+- Verified that approvals can be viewed and managed directly from the request record.
