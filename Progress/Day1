@@ -1,0 +1,17 @@
+# Day 1 – Service Catalog Creation
+
+## Progress
+
+### Creating Service Catalog
+- Designed catalog items for network requests.
+- Configured forms to capture user input effectively.
+
+### Variables Configuration
+- Added variables to catalog items to capture specific request details.
+- Configured variable types such as single-line text, choice lists, checkboxes, etc.
+
+### Variable Set Configuration
+- Grouped related variables into variable sets for reusability across catalog items.
+
+### Catalog UI Policy Configuration
+- Implemented UI policies to dynamically show/hide fields or make them mandatory based on user input.
