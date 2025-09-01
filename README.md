@@ -88,7 +88,7 @@ The system leverages **ServiceNow workflows, service catalog items, approval pro
 
 ## 👤 Author
 - **Navyasri Rajanala**  
-- GitHub:   
+- GitHub:  https://github.com/Navya013 
 - Contact: 322103310192@gvpce.ac.in  
 
 ---
