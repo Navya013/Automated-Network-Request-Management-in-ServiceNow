@@ -1,0 +1,17 @@
+# Day 2 – Creation of Tables
+
+## Progress
+
+### Creation of Table
+- Created custom tables to store network request data.
+- Defined table properties such as name, label, and extend options.
+
+### Creation of Fields
+- Added necessary fields to capture all required request information.
+- Defined field types (string, reference, choice, date/time, etc.).
+
+### Define Field Properties
+- Configured field attributes like mandatory, read-only, default values, and help text.
+
+### Add the Field to a Form (Optional)
+- Placed fields on forms for better visibility and usability.
